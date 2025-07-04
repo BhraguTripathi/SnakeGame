@@ -121,10 +121,6 @@ Potential improvements that could be added:
 
 Feel free to fork this project and submit pull requests for improvements or new features!
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 **Enjoy playing Snake! 🐍**
